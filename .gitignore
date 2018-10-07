@@ -3,3 +3,4 @@
 *.dta
 *.txt
 *.xls
+.ipynb_checkpoints/*
